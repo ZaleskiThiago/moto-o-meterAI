@@ -1,0 +1,121 @@
+[
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2018,
+        "preco_fipe": 25003.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2020,
+        "preco_fipe": 28080.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2021,
+        "preco_fipe": 28882.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2022,
+        "preco_fipe": 30577.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2023,
+        "preco_fipe": 32108.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2024,
+        "preco_fipe": 33228.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2025,
+        "preco_fipe": 34189.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817075-4",
+        "versao": "STD",
+        "ano": 2026,
+        "preco_fipe": 36923.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2017,
+        "preco_fipe": 24343.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2018,
+        "preco_fipe": 25566.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2020,
+        "preco_fipe": 28981.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2021,
+        "preco_fipe": 30068.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2022,
+        "preco_fipe": 30920.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2023,
+        "preco_fipe": 32905.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2024,
+        "preco_fipe": 35047.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2025,
+        "preco_fipe": 36725.00,
+        "mes_ano_ref": "05/2026"
+    },
+    {
+        "cod_fipe": "817074-6",
+        "versao": "TR",
+        "ano": 2026,
+        "preco_fipe": 41054.00,
+        "mes_ano_ref": "05/2026"
+    }
+]

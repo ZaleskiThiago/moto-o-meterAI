@@ -1,0 +1,54 @@
+[
+    {
+        "titulo": "Kawasaki Versys-x 300 Tourer Abs",
+        "versao": "TR",
+        "ano": 2022,
+        "km": 17.861,
+        "preco": 26999.0,
+        "preco_fipe": 30920.0,
+        "diferenca_valor": 3921.0,
+        "percentual_diff": 12.68111254851229,
+        "sinistrada": true,
+        "valor_atrativo": true,
+        "link": "https://moto.mercadolivre.com.br/MLB-6636907384-kawasaki-versys-x-300-tourer-abs-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=10&type=item&tracking_id=7afcd2c4-ca60-4dc5-8447-10a546c9f225"
+    },
+    {
+        "titulo": "Kawasaki Versys 300 2024 Tourer",
+        "versao": "TR",
+        "ano": 2024,
+        "km": 30.0,
+        "preco": 31000.0,
+        "preco_fipe": 35047.0,
+        "diferenca_valor": 4047.0,
+        "percentual_diff": 11.547350700487916,
+        "sinistrada": false,
+        "valor_atrativo": true,
+        "link": "https://moto.mercadolivre.com.br/MLB-4626954911-kawasaki-versys-300-2024-tourer-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=1&type=item&tracking_id=2f25a773-2b37-4caf-a348-c84100fbede9"
+    },
+    {
+        "titulo": "Kawasaki Versys-x Abs",
+        "versao": "STD",
+        "ano": 2018,
+        "km": 88.0,
+        "preco": 23490.0,
+        "preco_fipe": 25003.0,
+        "diferenca_valor": 1513.0,
+        "percentual_diff": 6.051273847138344,
+        "sinistrada": false,
+        "valor_atrativo": true,
+        "link": "https://moto.mercadolivre.com.br/MLB-6685093962-kawasaki-versys-x-abs-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=3&type=item&tracking_id=2f25a773-2b37-4caf-a348-c84100fbede9"
+    },
+    {
+        "titulo": "Kawasaki Versys",
+        "versao": "STD",
+        "ano": 2023,
+        "km": 12.0,
+        "preco": 30500.0,
+        "preco_fipe": 32108.0,
+        "diferenca_valor": 1608.0,
+        "percentual_diff": 5.008097670362526,
+        "sinistrada": false,
+        "valor_atrativo": true,
+        "link": "https://moto.mercadolivre.com.br/MLB-4605357971-kawasaki-versys-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=5&type=item&tracking_id=2f25a773-2b37-4caf-a348-c84100fbede9"
+    }
+]
